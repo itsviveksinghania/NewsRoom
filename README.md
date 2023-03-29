@@ -1,6 +1,6 @@
 # NewsRoom
 
-##Project Description:
+## Project Description:
 
 The project is a Django-based website that displays the latest technology news using an external API. The API provides a JSON file with various values such as the title, source, author, image URL, description, and link to the article.
 
